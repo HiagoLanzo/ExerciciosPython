@@ -9,4 +9,4 @@ print('Para pegar uma casa de R${} em {} anos, a prestação sera de {:.2f}'.for
 if pres > (30/100*sal):
     print('Emprestimo NEGADO!')
 else:
-    print('Emprestimo CONCE
+    print('Emprestimo CONCEDIDO!')
